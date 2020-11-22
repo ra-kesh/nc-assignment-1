@@ -193,3 +193,5 @@ leaderBoard();
 // for(var j=n;j>0;j--){
 //   console.log(string.substr(0,j));
 // }
+
+// random 
