@@ -3,4 +3,4 @@ first assignment for neog camp
 
 ## CLI APP
 
-Made with Vanila javascript 
+Made with Vanila Javascript and NodeJs
